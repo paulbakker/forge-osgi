@@ -1,0 +1,2 @@
+Private-Package: forge.shell.impl
+Service-Component: forge.shell.impl.ShellImpl

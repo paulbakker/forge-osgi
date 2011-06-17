@@ -1,0 +1,3 @@
+Private-Package: forge.core.impl
+spService-Component: forge.core.impl.Forge
+Service-Component: forge.core.impl.Forge
